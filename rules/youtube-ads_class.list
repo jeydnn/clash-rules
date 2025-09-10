@@ -1,0 +1,10 @@
+# YouTube Minimal Ads Block (safe set)
+DOMAIN,googleads.g.doubleclick.net
+DOMAIN,pagead2.googlesyndication.com
+DOMAIN,pagead.l.doubleclick.net
+DOMAIN,adservice.google.com
+DOMAIN,adservice.google.com.hk
+DOMAIN,imasdk.googleapis.com
+
+# 想更干净可再开下面这一条（少量场景会影响历史/推荐统计）：
+# DOMAIN,s.youtube.com
