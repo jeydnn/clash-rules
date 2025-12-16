@@ -5,3 +5,6 @@ DOMAIN-SUFFIX,ixbrowser.com
 
 # apple tv+
 DOMAIN-SUFFIX,tv.apple.com
+
+# ZA Bank
+DOMAIN-SUFFIX,za.group
